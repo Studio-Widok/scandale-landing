@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.php",
+  "scripts": {
+    "watch": "./node_modules/.bin/gulp"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-livereload": "^4.0.2",
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5",

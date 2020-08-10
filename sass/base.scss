@@ -1,18 +1,18 @@
 @font-face {
-  font-family: "GT America Condensed";
-  src: url("./../media/GT-America-Condensed-Regular.ttf");
+  font-family: 'GT America Condensed';
+  src: url('./../media/GT-America-Condensed-Regular.ttf');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: "GT America Condensed";
-  src: url("./../media/GT-America-Condensed-Medium.ttf");
+  font-family: 'GT America Condensed';
+  src: url('./../media/GT-America-Condensed-Medium.ttf');
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: "Canopee";
-  src: url("./../media/Canopee-Regular.otf");
+  font-family: 'Canopee';
+  src: url('./../media/Canopee-Regular.otf');
   font-weight: 400;
   font-style: normal;
 }
@@ -215,7 +215,7 @@ p {
 }
 
 body {
-  font-family: "GT America Condensed", sans-serif;
+  font-family: 'GT America Condensed', sans-serif;
   color: #707070;
 }
 
@@ -246,8 +246,8 @@ body {
       height: 100%;
       left: 0;
       font-size: 0.5em;
-      animation: overlay 15s infinite linear;
-      font-family: "Canopee", serif;
+      animation: overlay 3s infinite linear;
+      font-family: 'Canopee', serif;
 
       text {
         fill: none;
