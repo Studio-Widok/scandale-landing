@@ -70,7 +70,7 @@
       </div>
       <div id="gallery-contact"
         class="flex flex-align-center flex-justify-center flex-wrap gallery-item fade">
-        <div>more here:</div>
+        <div>more magic:</div>
         <a href="<?=$instagram?>" target="_blank">
           <?php include __DIR__ . '/media/inst.svg';?>
         </a>
