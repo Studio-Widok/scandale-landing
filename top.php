@@ -61,9 +61,9 @@
           </p>
         </div>
         <div class="fade">
-          <p>to miejsce pełne intrygi, które wymyka się wszelkim
-            szablonom. sprawdź co się stanie, gdy zamiast utartych
-            reguł, kierunek w kuchni wyznacza spontaniczność,
+          <p>To miejsce pełne intrygi, które wymyka się wszelkim
+            szablonom. Sprawdź, co się stanie, gdy zamiast utartych
+            reguł kierunek w kuchni wyznaczają spontaniczność,
             zabawa i odrobina szaleństwa…</p>
         </div>
       </div>
